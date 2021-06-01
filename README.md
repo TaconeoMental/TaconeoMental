@@ -8,7 +8,7 @@
 - 💻 Currently working on a new programming language (probably).
 - 🐞 CTF and Bug Bounty enthusiast.
 - 🔧 I'm a maker too! Let's talk about electronics and 3D printing.
-- 🚫 I hate Java.
+- ❗ ~~I hate Java~~ If you put a gun to my head and said, 'You have to program in Java for the rest of your life', I'd say shoot me.
 
 ## 🛠 Tech Stack
 <p align="center">
