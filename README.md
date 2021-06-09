@@ -1,14 +1,14 @@
 <h1 align="center">Hey! 👋 I'm Mateo</h1>
-<p align="center"><h4 align="center"><samp>Student, Developer, and Security Enthusiast.</samp></h4></p>
+<p align="center"><h4 align="center"><samp>Student, Developer and Cybersecurity Enthusiast.</samp></h4></p>
 </br>
 
 <img align="right" src="https://techworm.page/wp-content/uploads/2019/05/download-17.png" width="40%">
 
 - 🎓 Student at the University of Chile.
-- 💻 Currently working on a new programming language (probably).
-- 🐞 CTF and Bug Bounty enthusiast.
+- 💻 Probably developing a new programming language.
+- 🚩 CTF player and Bug Bounty Hunter.
 - 🔧 I'm a maker too! Let's talk about electronics and 3D printing.
-- ❗ ~~I hate Java~~ If you put a gun to my head and said, 'You have to program in Java for the rest of your life', I'd say shoot me.
+- 🧠 Brain hacker. Studying hypnosis since 2017.
 
 ## 🛠 Tech Stack
 <p align="center">
@@ -26,5 +26,5 @@
 <p align="center">
   <a href="https://t.me/TaconeoMental"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="mailto:mcontenlaf@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/MContenla"><img alt="Twitter" src="https://img.shields.io/badge/MContenla-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://twitter.com/MContenla"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 </p>
