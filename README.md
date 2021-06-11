@@ -8,7 +8,6 @@
 - 💻 Probably developing a new programming language.
 - 🚩 CTF player and Bug Bounty Hunter.
 - 🔧 I'm a maker too! Let's talk about electronics and 3D printing.
-- 🧠 When I'm not programming, I'm hacking brains as a street hypnotist.
 
 ## 🛠 Tech Stack
 <p align="center">
