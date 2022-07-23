@@ -2,11 +2,10 @@
 <p align="center"><h4 align="center"><samp>Student, Developer and Cybersecurity Enthusiast.</samp></h4></p>
 </br>
 
-<img align="right" src="https://techworm.page/wp-content/uploads/2019/05/download-17.png" width="40%">
+<img align="right" src="pd.png" width="40%">
 
-- 🎓 Student at the University of Chile.
-- 💻 Probably developing a new programming language.
-- 🚩 CTF player and Bug Bounty Hunter.
+- 🎓 Student at Universidad de Chile.
+- 🚩 Pentester and CTF player.
 - 🔧 I'm a maker too! Let's talk about electronics and 3D printing.
 
 ## 🛠 Tech Stack
