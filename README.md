@@ -4,8 +4,8 @@
 
 <img align="right" src="pd.png" width="40%">
 
-- 🎓 Student at Universidad de Chile.
-- 🚩 Pentester and CTF player.
+- 💻 Pentester @ Nivel4 Cybersecurity
+- 🚩 CTF player.
 - 🔧 I'm a maker too! Let's talk about electronics and 3D printing.
 
 ## 🛠 Tech Stack
@@ -23,6 +23,5 @@
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="https://t.me/TaconeoMental"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://twitter.com/TaconeoMental"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://t.me/standard_error"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
