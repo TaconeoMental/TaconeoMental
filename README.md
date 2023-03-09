@@ -1,5 +1,5 @@
 <h1 align="center">Hey! 👋 I'm Mateo</h1>
-<p align="center"><h4 align="center"><samp>Student, Developer and Cybersecurity Enthusiast.</samp></h4></p>
+<p align="center"><h4 align="center"><samp>Developer and Cybersecurity Enthusiast.</samp></h4></p>
 </br>
 
 <img align="right" src="pd.png" width="40%">
